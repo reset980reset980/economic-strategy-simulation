@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+DEPLOYMENT.md
+GIT_SETUP.md
+CONTRIBUTING.md
+API_REFERENCE.md
+GAME_DESIGN.md
+.env
+.DS_Store
+*.log
+dist-ssr
+.nixpacks
+nixpacks.toml
