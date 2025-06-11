@@ -23,3 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Keep package-lock.json for Railway
+!package-lock.json
